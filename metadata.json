@@ -1,0 +1,8 @@
+{
+  "name": "LocalCore AI",
+  "description": "Offline-first Android Local GGUF AI Chatbot with hardware-matched Model Hub (Levels 1-4), Vulkan/OpenCL GPU acceleration studio, SQLite FTS5 persistence, and automated GitHub Actions APK pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
